@@ -10,7 +10,7 @@ import java.util.List;
 public class ClientDAOFile implements ClientDAO {
 
 
-    public static final String FILE_NAME = "clients.txt";
+    public static final String FILE_NAME = "src/main/resources/clients.txt";
     public static final String CLIENT = "CLIENT";
     public static final char COMMA = ',';
 
